@@ -1,0 +1,1 @@
+print("Sintaks","Python","3")
